@@ -1,1 +1,7 @@
 this is sample
+
+feature code1
+
+feature code2 
+
+final code
